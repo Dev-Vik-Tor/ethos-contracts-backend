@@ -8,6 +8,7 @@ members = [
     "contracts/insurance_pool",
     "crates/metric-retention",
     "crates/synthetic-monitor",
+    "crates/vault-yield",
 ]
 
 [workspace.package]
