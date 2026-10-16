@@ -6,6 +6,7 @@ members = [
     "contracts/sbt",
     "backend",
     "crates/metric-retention",
+    "crates/synthetic-monitor",
 ]
 
 [workspace.package]
